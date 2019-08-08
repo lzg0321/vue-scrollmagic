@@ -1,6 +1,7 @@
 import Scrollmagic from 'scrollmagic'
 import 'debug.addIndicators'
 import 'animation.gsap'
+import 'animation.velocity'
 
 const VueScrollmagic = {
   install (Vue, options) {

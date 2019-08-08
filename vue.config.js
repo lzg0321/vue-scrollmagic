@@ -6,6 +6,7 @@ module.exports = {
       .set('ScrollToPlugin', 'gsap/src/uncompressed/plugins/ScrollToPlugin.js')
       .set('ScrollMagic', 'scrollmagic/scrollmagic/uncompressed/ScrollMagic.js')
       .set('animation.gsap', 'scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js')
+      .set('animation.velocity', 'scrollmagic/scrollmagic/uncompressed/plugins/animation.velocity.js')
       .set('debug.addIndicators', 'scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js')
   }
 }
